@@ -1,0 +1,100 @@
+/*Colores
+azul: #3498db;
+gris: #fafafa;
+*/
+.centrar {
+	background-image: url("banner.jpg");
+	width: 1920px;
+	height: 900px;
+	padding: 0px;
+	opacity: 0.7;
+	}
+.indice{
+	color: #FFFFFF;
+	position: absolute;
+	top: 0px;
+}
+.element{
+	color: #FFFFFF;
+	position: absolute;
+	top: 455px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.element>button{
+	display: block;
+	margin: auto;
+}
+
+button{
+	display: block;
+	margin: auto;
+}
+
+p{
+	margin-bottom: 3%;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+
+h1{
+	font-family: 'Roboto Slab', serif;
+	margin: 5% 0%;
+}
+
+h2{
+	font-family: 'Roboto Slab', serif;
+	margin: 5% 0%;
+	text-align: left;
+}
+
+img{
+	height: 70%;
+	width: 70%;
+	margin: 5%;
+	border-radius: 60%;
+}
+
+#botonazul{
+	color: white;
+	background-color: #3498db;
+}
+
+.textoblanco{
+	color: white;
+}
+
+#botonblanco{
+	color: #3498db;
+	background-color: white;
+}
+
+.fondoazul{
+	background-color: #3498db;
+}
+
+#centrado{
+	text-align: center;
+	margin: 1%;
+}
+
+#gris{
+	color:grey;
+	text-align: center;
+}
+
+.fondogris{
+	background-color: #fafafa;
+}
+
+.bloquefooter{
+	display: inline-block;
+	padding: 20px;
+}
+
+footer{
+	padding: 20px;
+	margin: 0px 0px 0px 40px;
+	text-align: center;	
+}
