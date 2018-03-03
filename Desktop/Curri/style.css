@@ -1,0 +1,76 @@
+
+#fondonegro{
+	background-color: black;
+}
+
+#fondoverde{
+	background-color: #00cc99;
+}
+
+#fondolila{
+	background-color: #666699;
+}
+
+button{
+	display: block;
+	margin: auto;
+}
+
+
+p{
+	margin-bottom: 20%;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+
+h1{
+	font-family: 'Roboto Slab', serif;
+	margin: 5% 0%;
+	text-align: center;
+	margin-bottom: 10%;
+}
+
+h2{
+	font-family: 'Roboto Slab', serif;
+	margin: 5% 0%;
+	text-align: center;
+}
+
+img{
+	height: 60%;
+	width: 60%;
+	border-radius: 60%;
+	display: block;
+	margin: auto;
+}
+
+
+.textoblanco{
+	color: white;
+	text-align: center;
+}
+
+
+#fondoazul{
+	background-color: #3498db;
+}
+
+.centrado{
+	text-align: center;
+	margin: 1%;
+	color: white;
+}
+
+
+#fondogris{
+	background-color: #a3a3c2;
+}
+
+
+footer{
+	margin-left: 0px;
+	text-align: center;	
+	background-color: pink;
+	padding: 20px;
+}
